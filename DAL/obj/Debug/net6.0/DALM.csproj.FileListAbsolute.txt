@@ -1,0 +1,12 @@
+C:\Users\R\Desktop\CompanyAddressBook\DAL\bin\Debug\net6.0\DALM.deps.json
+C:\Users\R\Desktop\CompanyAddressBook\DAL\bin\Debug\net6.0\DALM.dll
+C:\Users\R\Desktop\CompanyAddressBook\DAL\bin\Debug\net6.0\DALM.pdb
+C:\Users\R\Desktop\CompanyAddressBook\DAL\obj\Debug\net6.0\DALM.csproj.AssemblyReference.cache
+C:\Users\R\Desktop\CompanyAddressBook\DAL\obj\Debug\net6.0\DALM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R\Desktop\CompanyAddressBook\DAL\obj\Debug\net6.0\DALM.AssemblyInfoInputs.cache
+C:\Users\R\Desktop\CompanyAddressBook\DAL\obj\Debug\net6.0\DALM.AssemblyInfo.cs
+C:\Users\R\Desktop\CompanyAddressBook\DAL\obj\Debug\net6.0\DALM.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\CompanyAddressBook\DAL\obj\Debug\net6.0\DALM.dll
+C:\Users\R\Desktop\CompanyAddressBook\DAL\obj\Debug\net6.0\refint\DALM.dll
+C:\Users\R\Desktop\CompanyAddressBook\DAL\obj\Debug\net6.0\DALM.pdb
+C:\Users\R\Desktop\CompanyAddressBook\DAL\obj\Debug\net6.0\ref\DALM.dll
